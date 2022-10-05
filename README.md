@@ -5,3 +5,7 @@ Nama: Mochtar Muhammad Faisal
 NIM: 3201916018
 <br>
 Prodi: Teknik Informatika
+<br>
+pengguanaan Aplikasi:
+Akun admin: 12345678
+Password Admin: 12345678
